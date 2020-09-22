@@ -1,0 +1,6 @@
+classes= 2
+train  = /mnt/data/user/zhangqinlu/dataset/swimmimg/train.txt
+#valid  = data/val_li.txt
+valid = /mnt/data/user/zhangqinlu/dataset/swimmimg/test.txt
+names = data/swim.names
+backup = backup/
